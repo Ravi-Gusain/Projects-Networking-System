@@ -7,7 +7,10 @@
 //5) Added Link State Packet and Flooding Feature so that when flood occurs each router has access to LSP of the flood initiator.
 /*6) Added Optimal Cell Tower Placement Map is likened to a color,(channel–colors are limited to four), and found where to economically position broadcast towers 
      for maximum coverage via Four Color Map Problem || Vizing's theorem (Referenced) */
-
+/*___________________________________________________________________________________________________________________________________________________*/
+/* Ravi Gusain : LinkedList Functionalities to be added soon */
+/* Kushagra Sharma : Trees and Tries Functionalities to be added soon */
+/* Rahul Das : Strings and Algorithms Functionalities to be added soon */
 #include<bits/stdc++.h>
 
 using namespace std;
