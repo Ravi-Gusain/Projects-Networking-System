@@ -310,7 +310,7 @@ int main() {
     used to efficiently plan towers and channels in a mobile
     network*/
 }
-// Ravi : Create a doubly LinkedList with a Cycle where each node will behave as a computer process(During establishing of connection).
+/* Ravi : Create a doubly LinkedList with a Cycle where each node will behave as a computer process(During establishing of connection).
           Then print the traversal of the list, i.e. each node's(process) previous and forward address.
           Detect a cycle using Turtle and Hare Algorithm and print it's starting point and length of the cycle. This will enable us
-          to deduce the number of dependent processes.
+          to deduce the number of dependent processes.*/
